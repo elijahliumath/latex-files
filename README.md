@@ -1,4 +1,4 @@
 # latex-files
-This is my personal LaTeX style file. Only those who I have authorized may use it.
+These are my personal LaTeX files. Only those who I have authorized may use them.
 
-If you got the file from someone else, please get my permission first.
+If you got any of these files from someone else, please get my permission first.
